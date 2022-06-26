@@ -1,0 +1,2 @@
+# Traffic-Congestion-Avoidance-For-Autonomous-Vehicles-Using-Reinforcement-Learning
+The Aim of this project is to design an algorithm that will significantly decrease the trip times of vehicles as well as average car density on the map. Simulations will be used to simulate the Environment. SUMO environment will be utilized to design the road network, apply traffic policies and integrate intelligent algorithms with it. SUMO is a free and open traffic simulation suite that allows modeling of intermodal traffic systems including road vehicles, public transport and pedestrians.
